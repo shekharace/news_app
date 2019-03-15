@@ -1,0 +1,13 @@
+[debug] [2019-03-15T12:45:44.823Z] ----------------------------------------------------------------------
+[debug] [2019-03-15T12:45:44.876Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Shekhar Programmer\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js list
+[debug] [2019-03-15T12:45:44.878Z] CLI Version:   6.5.0
+[debug] [2019-03-15T12:45:44.879Z] Platform:      win32
+[debug] [2019-03-15T12:45:44.879Z] Node Version:  v10.9.0
+[debug] [2019-03-15T12:45:45.472Z] Time:          Fri Mar 15 2019 18:15:44 GMT+0530 (India Standard Time)
+[debug] [2019-03-15T12:45:45.472Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-03-15T12:45:45.593Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-03-15T12:45:45.597Z] > authorizing via signed-in user
+[debug] [2019-03-15T12:45:45.610Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ 
+[debug] [2019-03-15T12:45:47.992Z] <<< HTTP RESPONSE 200
